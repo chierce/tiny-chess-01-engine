@@ -1,0 +1,2 @@
+{"id": "32b425be-add1-4128-9b34-e7db766adf35", "role": "user", "content": "Build solution for tiny-chess-01", "timestamp": 1794901982}
+{"id": "f839afaf-4f6c-47d9-8f37-69bd27fe4886", "role": "assistant", "agent": "antigravity", "content": "Analyzing requirements and developing solution...", "usage": {"prompt_tokens": 1250, "completion_tokens": 3400, "total_tokens": 4650}, "timestamp": 1794902222}
